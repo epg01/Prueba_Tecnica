@@ -1,0 +1,4 @@
+FROM postgres:12-alpine
+
+ENV POSTGRES_USER=root
+ENV POSTGRES_PASSWORD=secret
