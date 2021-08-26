@@ -43,7 +43,7 @@ Tener instalado docker y docker-compose
 
 ### Pasos para probarlo en tu local
 
-Primero clonar el repositorio: ``` git clone https://github.com/epg01/Prueba_Tecnica ```
+Primero, clonar el repositorio: ``` git clone https://github.com/epg01/Prueba_Tecnica ```
 
 Luego procedemos a contruir nuestras imagenes
  ``` cd  Prueba_Tecnica```
@@ -74,7 +74,9 @@ Si por algún motivo el servidor no enciende, ejecutamos el siguiente comando:
 Para poder probar la extración de archivos tenemos tres rutas, ya que la extracción de archivos se hace de manera local  
 
 **doc_path=/project/Docs/Doc2.pdf**
+
 **doc_path=/project/Docs/Doc3.pdf**
+
 **doc_path=/project/Docs/Doc4.pdf**
 
 Para poder ver toda la información almecenada en la base de datos:
