@@ -86,6 +86,8 @@ Para poder ver toda la información almecenada en la base de datos:
 ## Ejemplo
 
 ``` http://127.0.0.1:8000/extract/?doc_path=/project/Docs/Doc2.pdf ```
+
+``` http://127.0.0.1:8000/db_data/?table_name=EXTRACTION ``` 
  
    
 ## Contacto
