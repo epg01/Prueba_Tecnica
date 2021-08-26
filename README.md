@@ -82,6 +82,10 @@ Para poder probar la extración de archivos tenemos tres rutas, ya que la extrac
 Para poder ver toda la información almecenada en la base de datos:
 
 **table_name=EXTRACTION**
+
+## Ejemplo
+
+``` http://127.0.0.1:8000/extract/?doc_path=/project/Docs/Doc2.pdf ```
  
    
 ## Contacto
